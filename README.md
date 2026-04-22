@@ -2,16 +2,16 @@
 
 # 🚀 About Me
 
-Computer Science Engineering student with experience in building full-stack and AI-driven applications using React, Node.js, Python, and modern web technologies.
+I am a Computer Science Engineering student with experience in building full-stack and AI-driven applications using React, Node.js, Python, and modern web technologies.
 
 ---
 
 ## 🌐 Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/YOUR_LINK)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)]([https://linkedin.com/in/YOUR_LINK](https://www.linkedin.com/in/ashhar-farrukh-3b5855289/))
 [![Twitter](https://img.shields.io/badge/Twitter-black?logo=twitter)](https://twitter.com/YOUR_LINK)
 [![Portfolio](https://img.shields.io/badge/Portfolio-grey)](YOUR_PORTFOLIO)
-[![Email](https://img.shields.io/badge/Email-red?logo=gmail)](mailto:YOUR_EMAIL)
+[![Email](https://img.shields.io/badge/Email-red?logo=gmail)](ashharfarrukh@gmail.com)
 
 ---
 
