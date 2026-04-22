@@ -8,17 +8,16 @@ I am a Computer Science Engineering student with experience in building full-sta
 
 ## 🌐 Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)]([https://linkedin.com/in/YOUR_LINK](https://www.linkedin.com/in/ashhar-farrukh-3b5855289/))
-[![Twitter](https://img.shields.io/badge/Twitter-black?logo=twitter)](https://twitter.com/YOUR_LINK)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/ashhar-farrukh-3b5855289/)
+[![X](https://img.shields.io/badge/X-black?logo=twitter)](https://x.com/Ashhar_farrukh)
 [![Portfolio](https://img.shields.io/badge/Portfolio-grey)](YOUR_PORTFOLIO)
-[![Email](https://img.shields.io/badge/Email-red?logo=gmail)](ashharfarrukh@gmail.com)
+[![Email](https://img.shields.io/badge/Email-red?logo=gmail)](mailto:ashharfarrukh@gmail.com)
 
 ---
 
 ## 💻 Tech Stack
 
 ![HTML5](https://img.shields.io/badge/HTML5-orange?logo=html5)
-![Java](https://img.shields.io/badge/Java-red?logo=java)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
 ![C](https://img.shields.io/badge/C-blue)
 ![Python](https://img.shields.io/badge/Python-blue?logo=python)
